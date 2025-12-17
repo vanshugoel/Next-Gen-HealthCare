@@ -22,7 +22,6 @@
 - **Backend**: Node.js, Express.js
 - **Blockchain**: Ethereum, Solidity
 - **Database**: MongoDB
-- **Deployment**: Vercel (Frontend), [Backend Hosting Service]
 
 ---
 
